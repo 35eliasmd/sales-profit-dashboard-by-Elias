@@ -47,7 +47,8 @@ While the current version is primarily built using **Pivot Tables** and **DAX**,
 ---
 
 ## 🖼️ Dashboard Preview
-<img width="968" height="479" alt="Sales dashboard" src="https://github.com/user-attachments/assets/53a79dc5-679f-494b-87da-a51605c8ea48" />
+
+<img width="968" height="479" alt="Sales dashboard" src="https://github.com/user-attachments/assets/ff60f361-8e1c-454f-a0d5-38f0b6665f75" />
 
 
 ---
